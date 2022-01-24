@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable-mdpi/favorite_icon_button_navigation.xml" value="0.14027777777777778" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/baseline_add_white_24dp.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/baseline_comment_bank_white_24dp.xml" value="0.14027777777777778" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/baseline_home_white_24dp.xml" value="0.14027777777777778" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/baseline_minimize_white_24dp.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/baseline_settings_white_24dp.xml" value="0.14027777777777778" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/btn_add_card.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/btn_order_now.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/card_background.xml" value="0.21481481481481482" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/card_background_popular_layout.xml" value="0.13680555555555557" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/category_background_shape.xml" value="0.13680555555555557" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/category_background_shape2.xml" value="0.13680555555555557" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/category_background_shape3.xml" value="0.13680555555555557" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/category_background_shape4.xml" value="0.13680555555555557" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/category_background_shape5.xml" value="0.13680555555555557" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/ic__favorite_shadow_24.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/ic_baseline_favorite_white_24.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/light_orange_shape.xml" value="0.14027777777777778" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/min_btn_red.xml" value="0.13680555555555557" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/search_shape.xml" value="0.13680555555555557" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/drawable/shape_orange_color_shap.xml" value="0.21481481481481482" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/activity_card_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/activity_fragment.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/activity_intro.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/activity_intro2.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/activity_show_detail.xml" value="0.25" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/activity_show_detail_category.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/activity_sign_up.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/activity_splash_screen.xml" value="0.1284722222222222" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/cardlistfragment.xml" value="0.1" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/category_fragment.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/fragment_categories.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/fragment_dashboard.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/fragment_favorite.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/fragment_my_account.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/fragment_notifications.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/homefragments.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/myaccountfragment.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/parent_category_recyclerview.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/view_holder_category_layout.xml" value="0.536" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/view_holder_popular_layout.xml" value="0.4" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/layout/viewholder_cardlist.xml" value="0.536" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/khatib/AndroidStudioProjects/DesignProject/app/src/main/res/menu/meun_navigtion_button.xml" value="0.14930555555555555" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
